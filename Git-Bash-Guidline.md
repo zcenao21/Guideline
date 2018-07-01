@@ -16,3 +16,8 @@ git push origin master
 ```
 git rm filename
 ```
+
+- if you have file not contained locally
+```
+git pull origin master
+```
